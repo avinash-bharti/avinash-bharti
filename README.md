@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avinash</h1>
-<h3 align="center">software engineer | photographer</h3>
+<h3 align="center">software engineer</h3>
 
 - 👨‍💻 You can find my past hacks @ [/avinashbharti97](https://github.com/avinashbharti97)
 
